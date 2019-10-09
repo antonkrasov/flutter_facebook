@@ -1,8 +1,8 @@
 name: flutter_facebook
-description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+description: Flutter plugin to connect Facebook analytics and track app installs.
+version: 1.0.0
+author: Anton Krasov <anton.krasov@gmail.com>
+homepage: https://github.com/antonkrasov/flutter_facebook
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
